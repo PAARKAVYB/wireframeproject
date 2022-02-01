@@ -13,13 +13,16 @@ Write your design steps here
 
 ## OUTPUT:
 ## HOME PAGE:
-![output](pencil1.png)
+![pencil1](https://user-images.githubusercontent.com/93509383/152027238-0fe0b81f-cc88-4a68-85d6-dbf20281338b.png)
+
 
 ## ABOUT US:
-![output](pencil.png)
+![pencil2](https://user-images.githubusercontent.com/93509383/152027276-da826473-ccd1-4f87-ad66-7b9051119585.png)
+
 
 ## CONTACT US:
-![output](pencil3.png)
+![pencil3](https://user-images.githubusercontent.com/93509383/152027303-539ea9e9-6924-4aa4-94af-f31bf8bbebb4.png)
+
 
 
 ## Result:
