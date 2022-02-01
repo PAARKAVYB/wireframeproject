@@ -12,7 +12,14 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+## HOME PAGE:
+![output](pencil1.png)
+
+## ABOUT US:
+![output](pencil.png)
+
+## CONTACT US:
+![output](pencil3.png)
 
 
 ## Result:
